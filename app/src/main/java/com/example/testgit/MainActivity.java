@@ -15,11 +15,17 @@ public class MainActivity extends AppCompatActivity {
         Log.d("bk", test);
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         Log.d("zk", test);
 =======
 
         Log.d("ck", test);
 >>>>>>> Add log with tag ck
+=======
+        Log.d("ck", test);
+        Log.d("dk", test);
+        Log.d("ek", test);
+>>>>>>> Add log with tag ek
 =======
         Log.d("ck", test);
         Log.d("dk", test);
