@@ -13,6 +13,8 @@ public class MainActivity extends AppCompatActivity {
 
         String test = "Hello world";
         Log.d("bk", test);
-        Log.d("zk", test);
+        Log.d("ck", test);
+        Log.d("dk", test);
+        Log.d("ek", test);
     }
 }
