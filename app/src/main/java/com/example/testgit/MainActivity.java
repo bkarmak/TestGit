@@ -13,6 +13,11 @@ public class MainActivity extends AppCompatActivity {
 
         String test = "Hello world";
         Log.d("bk", test);
+<<<<<<< HEAD
         Log.d("zk", test);
+=======
+
+        Log.d("ck", test);
+>>>>>>> Add log with tag ck
     }
 }
