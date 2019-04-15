@@ -17,8 +17,11 @@ public class MainActivity extends AppCompatActivity {
         Log.d("ck", test);
         Log.d("dk", test);
         Log.d("ek", test);
+
         int ok = 9;
         Log.d("mk", ""+ok);
+        Log.d("fk", test + test);
+
 
     }
 }
