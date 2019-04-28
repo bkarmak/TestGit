@@ -11,7 +11,12 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+<<<<<<< HEAD
         String helloWorld = "Hello world";
         String helloWorld2 = "Hello world 2";
+=======
+        String test = "Hello world BK";
+        String test2 = "Hello world BK";
+>>>>>>> feature-bk
     }
 }
